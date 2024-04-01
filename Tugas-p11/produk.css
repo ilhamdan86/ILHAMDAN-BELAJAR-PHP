@@ -1,0 +1,20 @@
+.container {
+    width: 960px;
+    margin: 0 auto;
+  }
+  
+  .row {
+    margin-bottom: 20px;
+  }
+  
+  .col-md-4 {
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    color: #ffffff;
+  }
+  
